@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Modeling infectious diseases, in particular HIV"
   location         : "Zurich"
-  employer         : "University Hospital of Zurich and University of Zurich"
+  employer         : "University Hospital of Zurich\n and University of Zurich"
   uri              : # URL
-  email            : "anna.bot-AT-uzh.ch" 
+  email            : "anna.bot@uzh.ch" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-7803-1518"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # TBA: "https://www.ncbi.nlm.nih.gov/pubmed/?term=anna+bot"
   researchgate     : # URL
   scopus           : # URL
 
