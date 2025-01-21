@@ -11,28 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, University of Basel, 2024
+* M.Sc. in Mathematics, ETH Zurich, 2020
+* B.Sc. in Mathematics, ETH Zurich, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-: Postdoctoral Research Fellow
+  * Quantitative Infectious Diseases, University of Zurich/University Hospital of Zurich
+  * Modeling HIV epidemic in Switzerland and Europe
+  * Mentor: Prof. Dr. Katharina Kusejko
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2024: Research Fellow 
+  * Department of Mathematics and Computer Science, University of Basel
+  * Teaching: assistant in Linear Algebra, Numerics, Algebraic Geometry
+  * Advisor: Prof. Dr. Jérémy Blanc
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2019: Teaching assistant
+  * Department of Mathematics, ETH Zurich
+  * Linear Algebra
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
