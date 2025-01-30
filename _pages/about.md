@@ -18,5 +18,5 @@ redirect_from:
 🚀 Also, check out an idea for an app that helps people figure out which food may be causing their food-related symptoms: {% include link.html
   title="Alleviate"
   description="Alleviate"
-  link="https://bot-anna.github.io/alleviate/"
+  link="alleviate/"
 %}
