@@ -15,4 +15,4 @@ redirect_from:
 
 🧬 Now, my work consists of modeling different aspects of the HIV epidemic in Switzerland. I'm passionate about understanding infectious diseases better through modeling.
 
-🚀 Also, check out [Alleviate](https://bot-anna.github.io/alleviate/){:target="_blank"}, an idea for an app that helps people figure out which food may be causing their food-related symptoms that I developped together with Enrico Giudice.
+🚀 Also, check out [Alleviate](https://bot-anna.github.io/alleviate/){:target="_blank"}, an idea for an app that helps people figure out which food may be causing their food-related symptoms that I developed together with Enrico Giudice.
