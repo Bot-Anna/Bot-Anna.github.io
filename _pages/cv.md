@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, University of Basel, 2024
+* Ph.D. in Mathematics, University of Basel, 2024
 * M.Sc. in Mathematics, ETH Zurich, 2020
 * B.Sc. in Mathematics, ETH Zurich, 2018
 
