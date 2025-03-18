@@ -15,7 +15,7 @@ Education
 * M.Sc. in Mathematics, ETH Zurich, 2020
 * B.Sc. in Mathematics, ETH Zurich, 2018
 
-Work experience
+Experience
 ======
 * 2024-: Postdoctoral Research Fellow
   * Quantitative Infectious Diseases, University of Zurich/University Hospital of Zurich
