@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Modelling infectious diseases, in particular HIV"
   location         : "Zurich"
-  employer         : "University Hospital Zurich"
-  employer         : "University of Zurich"
+  employer         : | "University Hospital Zurich"
+                        "University of Zurich"
   uri              : # URL
   email            : "anna.bot@uzh.ch" 
 
